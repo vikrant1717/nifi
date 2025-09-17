@@ -170,6 +170,7 @@
         <velocity-engine-core.version>2.4.1</velocity-engine-core.version>
         <simple-syslog-5424.version>0.0.19</simple-syslog-5424.version>
         <nimbus-jose-jwt.version>10.5</nimbus-jose-jwt.version>
+        <sonar.organization>vikrant1717</sonar.organization>
     </properties>
     <dependencyManagement>
         <dependencies>
